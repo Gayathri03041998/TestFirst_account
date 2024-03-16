@@ -1,0 +1,38 @@
+string reverse.
+string occurence.
+how many capital letters small letters in string.
+gayathri1234@gmail.com->make first 3 letter like this Gay and take take dad 1st letter caps
+array of string str1=6 string str2=6. remove odd number value in string one and replace str 2's vowels
+star matrix
+
+wait concepts
+6plugins cucumber
+feature class
+example keyword
+testng:
+class level exxecution(thread level)
+testng vs junit
+TDD vs BDD
+string buffer vs builder
+collection vs collections
+list vs set
+
+
+
+word reverse
+reverse string
+remove special character
+lenth of string with out lengh
+anagram
+hashmap
+substring
+
+
+To learn:
+1. real time project using cucumber
+2. jenkins real time
+3. Array programs
+4.Test NG one more time
+5. Hash map
+6.fibbonaci
+7.palindrome
